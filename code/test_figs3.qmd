@@ -1,12 +1,14 @@
 ---
 title: "Teste Figs"
-format: html
+format: pdf
 editor: source
 execute:
   echo: false
 ---
 
-```{r setup, include=FALSE}
+```{r}
+#| label: setup
+#| include: false
 library(tidyverse)
 ```
 
