@@ -10,7 +10,6 @@ execute:
 library(tidyverse)
 ```
 
-
 # Q-Q Plots for each session
 
 Some text.

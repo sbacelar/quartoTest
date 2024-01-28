@@ -9,7 +9,6 @@ execute:
 
 
 
-
 # Q-Q Plots for each session
 
 Some text.
